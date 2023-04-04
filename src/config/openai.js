@@ -1,5 +1,5 @@
 const { Configuration, OpenAIApi } = require('openai')
-require("dotenv").config()
+// require("dotenv").config()
 
 module.exports = class openai{
 
